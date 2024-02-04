@@ -1,13 +1,14 @@
-{
+[
+      {
   "nickName": [
     {
       "sas": {
-        "options": {
-          "0": "A"
-        },
-        "score": 0,
-        "result": ""
+        "options": [
+
+        ],
+        "score": 1
       }
     }
   ]
 }
+]
